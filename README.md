@@ -11,4 +11,4 @@
 
 ## 安装
 
-[下载文件](https://github.com/lscho/CommentToWechat_for_typecho/archive/master.zip)，解压后请将文件夹**重命名**为CommentToWechat。再上传至`usr/plugins/下`。
+[下载文件](https://github.com/lscho/CommentToWechat_for_typecho/archive/master.zip)，解压后请将文件夹**重命名**为CommentToWechat。再上传至`wp-content/plugins/下`。
